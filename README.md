@@ -1,5 +1,6 @@
 # MTS
-MTS is a homebrew style home solution for a worry free network
+MTS (Mobile Terror Station) is a seemingly scary small project but is designed with the idea of anyone being able to obtain the parts and softs to make a network router that can handle a multitude of actions like being an Ad-hole for the network, being a Netowrk Nanny to keep your network safe from site you don't approve of, a way to stream pre-downloaded or pre-owned video files to anyone on the network, Local MultiMedia NAS/HUB. There are various other options like turning your router into your home-computer for basic useage including using a TV as a monitor!  What seems like a Terror of a task is super simple and can help make your network a bit more worry free!
+
 --- ---
 
 
@@ -47,7 +48,3 @@ MTS is a homebrew style home solution for a worry free network
 - Various
 
 --- ---
-
-
-...
-
